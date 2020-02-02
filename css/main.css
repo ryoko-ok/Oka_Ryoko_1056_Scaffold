@@ -32,6 +32,10 @@ p:first-letter
 	color: #000;
 }
 
+.hidden {
+	display: none;
+}
+
 .box {
 	background-color: #000;
 	color: white;
